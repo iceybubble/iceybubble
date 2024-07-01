@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/maybe_priyanshi" target="blank"><img src="https://img.shields.io/twitter/follow/maybe_priyanshi?logo=twitter&style=for-the-badge" alt="maybe_priyanshi" /></a> </p>
 
-- 🔭 I’m currently working on **defensive security**
+- 🔭 I’m currently working on **network security**
 
-- 🌱 I’m currently learning **cybersec, linux,google dorking**
+- 🌱 I’m currently learning **cybersec, network security**
 
 - 👯 I’m looking to collaborate on **related to cybersecurity and forensics projects**
 
 - 💬 Ask me about **cybersecurity,ethical hacking,social engineering,phising**
 
-- 📫 How to reach me **kathaitpallavi164@gmail.com**
+- 📫 How to reach me **through kathaitpallavi164@gmail.com or www.linkedin.com/in/pallavi-kathait-b2764b256**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
