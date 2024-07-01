@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **cybersec, network security**
 
-- 👯 I’m looking to collaborate on **related to cybersecurity and forensics projects**
+- 👯 I’m looking to collaborate on **cybersecurity and forensics projects**
 
 - 💬 Ask me about **cybersecurity,ethical hacking,social engineering,phising**
 
