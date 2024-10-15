@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pallavi Kathait</h1>
 <h3 align="center">A passionate cybersecurity learner</h3>
 
-<img align="right" alt="coding" width="400" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif">
+<img align="right" alt="coding" width="300" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif">
 
 <p align="left"> <a href="https://twitter.com/maybe_priyanshi" target="blank"><img src="https://img.shields.io/twitter/follow/maybe_priyanshi?logo=twitter&style=for-the-badge" alt="maybe_priyanshi" /></a> </p>
 
