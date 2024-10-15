@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="200" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iceybubble" alt="iceybubble" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/maybe_priyanshi" target="blank"><img src="https://img.shields.io/twitter/follow/maybe_priyanshi?logo=twitter&style=for-the-badge" alt="maybe_priyanshi" /></a> </p>
 
 - 🔭 I’m currently working on **defensive security and web development**
