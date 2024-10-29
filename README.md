@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pallavi Kathait</h1>
 <h3 align="center">A passionate cybersecurity learner</h3>
-
-https://holopin.me/iceybubble)](https://holopin.io/@iceybubble
+[An image of @iceybubble's Holopin badges, which is a link to view their full Holopin profile]
 
 <img align="centert" alt="coding" width="400" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif">
 
