@@ -2,9 +2,9 @@
 <h3 align="center">A passionate cybersecurity learner</h3>
 
 
-<img align="centert" alt="coding" width="400" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif">
+<img align="center" alt="coding" width="400" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif">
 
-(https://holopin.me/iceybubble)](https://holopin.io/@iceybubble)
+<img align="center" alt="holopin badges" src="C:\Users\katha\Pictures\Screenshots\Screenshot 2024-10-29 185209.png"> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iceybubble" alt="iceybubble" /></a> </p>
 
