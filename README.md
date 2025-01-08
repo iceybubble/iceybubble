@@ -49,14 +49,12 @@
 View my TryHackMe profile: <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3924568" target="_blank">TryHackMe Public Profile</a>
 </p>
 
-
 <h3 align="left">My Badges:</h3>
 <p align="left">
 <a href="https://holopin.io/@iceybubble"><img src="https://holopin.me/iceybubble" alt="Holopin Badge" /></a>
+</p>
 
-<div style="display: grid; place-items: center; height: 100vh;">
+<h3 align="center">My TryHackMe Badge:</h3>
+<p align="center">
     <img src="https://tryhackme-badges.s3.amazonaws.com/PallaviKathait.png" alt="Your Image Badge" />
-</div>
-
-
 </p>
