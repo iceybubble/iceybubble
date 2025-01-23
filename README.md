@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/maybe_priyanshi" target="blank"><img src="https://img.shields.io/twitter/follow/maybe_priyanshi?logo=twitter&style=for-the-badge" alt="maybe_priyanshi" /></a> </p>
 
-- 🔭 I’m currently working on **Shell Projects**
+- 🔭 I’m currently working on **Honing my skills in network security**
 
-- 🌱 I’m currently learning **frontend development**
+- 🌱 I’m currently learning **cybersecurity baiscs**
 
-- 👯 I’m looking to collaborate on **Dev projects**
+- 👯 I’m looking to collaborate on **related to cybersecurity field**
 
 - 🤝 I’m looking for help with **Cybersecurity and Forensics**
 
