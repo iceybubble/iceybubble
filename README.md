@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/maybe_priyanshi" target="blank"><img src="https://img.shields.io/twitter/follow/maybe_priyanshi?logo=twitter&style=for-the-badge" alt="maybe_priyanshi" /></a> </p>
 
-- 🔭 I’m currently working on **Honing my skills in network security**
+- 🔭 I’m currently working on **Honing my skills in cybersecurity**
 
 - 🌱 I’m currently learning **cybersecurity baiscs**
 
