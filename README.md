@@ -2,7 +2,7 @@
 <h3 align="center">A passionate cybersecurity learner</h3>
 
 <p align="center">
-    <img alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYzNDEzNDAsIm5iZiI6MTczNjM0MTA0MCwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA4VDEyNTcyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxNmQyNTY5MDg3ZmRiMWRkZjYyMGEyN2YzNTQ3YzdhODA4MDhmZGZiMzYwMWM1OWM1NjVhOTg2YWU5YzUyMjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fo1Shfgm8ZSf0-j4ziEfc0U8jpvZJDTZrX7vUitlD60">
+    <img alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgzMjc5MjQsIm5iZiI6MTczODMyNzYyNCwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTMxVDEyNDcwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZjN2RjZGNmNjk0YzYxMTQ4MTE5OWRmOTIwOWVmYTNjNjJiYTgyMjRlN2Y2ZjdmYTI1MmRhMGM4OTJjZDBmNzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.D1webdTmh04gtsTflDOefZRq9MZDGo2OZHYfMQiCQYk">
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iceybubble" alt="iceybubble" /></a> </p>
@@ -59,4 +59,5 @@ View my TryHackMe profile: <a href="https://tryhackme.com/api/v2/badges/public-p
 <h3 align="center">My TryHackMe Badge:</h3>
 <p align="center">
     <img src="https://tryhackme-badges.s3.amazonaws.com/PallaviKathait.png" alt="Your Image Badge" />
+
 </p>
