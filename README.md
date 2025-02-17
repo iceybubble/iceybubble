@@ -58,6 +58,6 @@ View my TryHackMe profile: <a href="https://tryhackme.com/api/v2/badges/public-p
 
 <h3 align="center">My TryHackMe Badge:</h3>
 <p align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/PallaviKathait.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/PallaviKathait.png" alt="Your Image Badge" />
 
 </p>
