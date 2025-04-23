@@ -48,7 +48,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iceybubble&" alt="iceybubble" /></p>
 
 <p align="left">
-View my TryHackMe profile: <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3924568" target="_blank">TryHackMe Public Profile</a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/PallaviKathait.png" alt="Your Image Badge" />
+
 </p>
 
 <h3 align="left">My Badges:</h3>
