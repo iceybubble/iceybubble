@@ -47,12 +47,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iceybubble&" alt="iceybubble" /></p>
 
-<p align="left">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3924568" style='border:none;'></iframe>
-<img src="https://tryhackme-badges.s3.amazonaws.com/PallaviKathait.png" alt="Your Image Badge" />
-
-</p>
-
 <h3 align="left">My Badges:</h3>
 <p align="left">
 <a href="https://holopin.io/@iceybubble"><img src="https://holopin.me/iceybubble" alt="Holopin Badge" /></a>
