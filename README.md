@@ -52,6 +52,7 @@
   - Penetration Testing
   - Network Analysis
   - Log Analysis & SIEM
+  - Bug Bounties
 
 ---</p>
 
