@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pallavi Kathait</h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacking Learner | Collaborator</h3>
+<h3 align="center">Cybersecurity Enthusiast | Penetration Tester | Collaborator</h3>
 
 <p align="center">
-  <img alt="Girl Coding" width="400" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80" />
+  <!-- Google image about cybersecurity/dark mode coding -->
+  <img alt="Girl Coding Cybersecurity" width="400" src="https://github.com/shriya2603/shriya2603/blob/main/coding-girl-dark.jpeg?raw=true" />
 </p>
 
 ---
