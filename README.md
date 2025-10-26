@@ -2,18 +2,12 @@
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacking Learner | Collaborator</h3>
 
 <p align="center">
-  <img alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif" />
-</p>
-
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=iceybubble">
-    <img src="https://github-profile-trophy.vercel.app/?username=iceybubble" alt="Trophies" />
-  </a>
+  <img alt="Girl Coding" width="400" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80" />
 </p>
 
 ---
 
-Welcome to my GitHub! I’m a passionate cybersecurity student exploring ethical hacking, penetration testing, and network defense. When I'm not coding, I love gaming and sports—and bring my energy and curiosity into everything I do.
+Welcome to my GitHub! I’m a passionate cybersecurity student exploring ethical hacking, penetration testing, and network defense. When I'm not coding, I love gaming and sports—and bring my energy and discipline from the field to every project!
 
 ---
 
@@ -78,9 +72,7 @@ Check out more in my repos!
 
 ### 🌱 Fun Facts & Interests
 
-- 🏃‍♂️ Former Athlete: Kho-Kho champ—team sports taught me to thrive under pressure.
-- 😄 Tech enthusiast: Always up for a tech joke or challenge!
-- 🚀 Growth mindset: I believe in continuous learning and pushing my limits.
+- I am the best in the world
 
 ---
 
