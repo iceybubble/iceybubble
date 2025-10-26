@@ -12,12 +12,12 @@ Welcome to my GitHub! I’m a passionate cybersecurity student exploring ethical
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on honing my cybersecurity and ethical hacking skills.
-- 🌱 Deepening my knowledge of penetration testing, digital forensics, and SIEM.
+- 🔭 Currently working on honing my cybersecurity skills.
+- 🌱 Deepening my knowledge of penetration testing and threat intelligence.
 - 🤝 I love collaborating on security projects and learning from the community.
-- 💬 Ask me about: cybersecurity, ethical hacking, social engineering, phishing.
+- 💬 Ask me about: anything.
 - 📫 Reach me at: **kathaitpallavi164@gmail.com**
-- ⚡ Fun fact: I was a Kho-Kho champ—teamwork, agility, and discipline are in my DNA!
+- ⚡ Fun fact: I am the best in the world.
 
 ---
 
@@ -40,7 +40,7 @@ Welcome to my GitHub! I’m a passionate cybersecurity student exploring ethical
 
 - [Alertix](https://github.com/iceybubble/Alertix): Real-time alert system for security events.
 - [SIEM-Log-Generator](https://github.com/iceybubble/SIEM-Log-Generator): Custom log generator for SIEM solutions.
-- [ReconForge](https://github.com/iceybubble/ReconForge): Reconnaissance automation tool.
+- [ThreatSphere](https://github.com/iceybubble/ThreatSphere): Threat intelligence automation platform.
 
 Check out more in my repos!
 
