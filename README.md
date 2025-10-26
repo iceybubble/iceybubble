@@ -2,8 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | Penetration Tester | Collaborator</h3>
 
 <p align="center">
-  <!-- Google image about cybersecurity/dark mode coding -->
-  <img alt="Girl Coding Cybersecurity" width="400" src="https://github.com/shriya2603/shriya2603/blob/main/coding-girl-dark.jpeg?raw=true" />
+  <img alt="github image" width="400" src="github.gif" />
 </p>
 
 ---
