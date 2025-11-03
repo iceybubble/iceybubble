@@ -60,6 +60,7 @@ Check out more in my repos!
 
 <p align="left">
   <a href="https://holopin.io/@iceybubble"><img src="https://holopin.me/iceybubble" alt="Holopin Badge" /></a>
+  <a href="https://holopin.me/iceybubble"><img src="https://holopin.io/@iceybubble" alt="Holopin Badge" /></a>
 </p>
 
 #### TryHackMe Badge
