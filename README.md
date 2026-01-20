@@ -66,7 +66,7 @@ Check out more in my repos!
 #### TryHackMe Badge
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/PallaviKathait.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/PallaviKathait.png" alt="Your Image Badge" />
 </p>
 
 ---
