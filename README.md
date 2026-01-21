@@ -46,20 +46,6 @@ Welcome to my GitHub! I’m a passionate cybersecurity student exploring ethical
 
 ---
 
-### 🏅 Badges
-
-<p align="left">
-  <a href="https://holopin.io/@iceybubble"><img src="https://holopin.me/iceybubble" alt="Holopin Badge" /></a>
-</p>
-
-#### TryHackMe Badge
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/PallaviKathait.png" alt="Your Image Badge" />
-</p>
-
----
-
 ###
 
 <div align="center">
@@ -91,6 +77,21 @@ Welcome to my GitHub! I’m a passionate cybersecurity student exploring ethical
 </div>
 
 ###
+
+### 🏅 Badges
+
+<p align="left">
+  <a href="https://holopin.io/@iceybubble"><img src="https://holopin.me/iceybubble" alt="Holopin Badge" /></a>
+</p>
+
+#### TryHackMe Badge
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/PallaviKathait.png" alt="Your Image Badge" />
+</p>
+
+---
+
 
 ---
 
