@@ -1,63 +1,47 @@
-<h1 align="center">Hi 👋, I'm Pallavi Kathait</h1>
+<h1 align="center">Hi 👋, I'm Iceybubble aka Pallavi Kathait</h1>
 <h3 align="center">Cybersecurity Enthusiast | Penetration Tester | Collaborator</h3>
 
 <p align="center">
   <img alt="github image" width="400" src="github.gif" />
 </p>
 
----
+###
 
-Welcome to my GitHub! I’m a passionate cybersecurity student exploring ethical hacking, penetration testing, and network defense. When I'm not coding, I love gaming and sports—and bring my energy and discipline from the field to every project!
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="60" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+</div>
 
----
-
-### 🚀 About Me
-🔍 Exploring ethical hacking, penetration testing, and SOC basics
-
-🌱 Learning more about threat intelligence, SIEM, and bug bounty recon
-
-🛠️ Enjoy turning concepts into hands-on projects
-
-🤝 Love collaborating and learning from the security community
-
-💬 Ask me about cybersecurity basics, tools, or learning resources
-
-📫 Reach me at: kathaitpallavi164@gmail.com
-
----
-
-### 🛠️ Skills & Tools
-
-**Programming:**
-- Python (automation, scripting)
-- C (systems programming)
-- Bash/Shell (command-line mastery)
-
-**Cybersecurity Arsenal:**
-- Kali Linux, Burp Suite, Nmap, Wireshark, Metasploitable, Google Dorking
-
-**Techniques:**
-- Penetration Testing, Network & Log Analysis, SIEM, Bug Bounties
-
----
-
-### 🏆 Featured Projects
-
-- [Alertix](https://github.com/iceybubble/Alertix): Real-time alert system for security events.
-- [SIEM-Log-Generator](https://github.com/iceybubble/SIEM-Log-Generator): Custom log generator for SIEM solutions.
-- [ThreatSphere](https://github.com/iceybubble/ThreatSphere): Threat intelligence automation platform.
-
-Check out more in my repos!
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iceybubble&show_icons=true&locale=en" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iceybubble&show_icons=true&locale=en&layout=compact" alt="languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iceybubble&" alt="streak" />
-</p>
+Welcome to my GitHub! I’m a passionate cybersecurity student exploring ethical hacking, penetration testing, and network defense.
 
 ---
 
@@ -65,7 +49,6 @@ Check out more in my repos!
 
 <p align="left">
   <a href="https://holopin.io/@iceybubble"><img src="https://holopin.me/iceybubble" alt="Holopin Badge" /></a>
-  <a href="https://holopin.me/iceybubble"><img src="https://holopin.io/@iceybubble" alt="Holopin Badge" /></a>
 </p>
 
 #### TryHackMe Badge
@@ -76,20 +59,69 @@ Check out more in my repos!
 
 ---
 
-### 🌱 Fun Facts & Interests
+###
 
-- I am the best in the world
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iceybubble&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=iceybubble&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iceybubble&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iceybubble/iceybubble/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iceybubble/iceybubble/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iceybubble/iceybubble/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<div align="center">
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+</div>
+
+###
 
 ---
 
+### 🌱 Fun Fact
+
+- I don’t know everything (yet!), but I love experimenting, breaking things ethically, and improving step by step
+
+---
+
+
+---
 ### 📫 Connect With Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/pallavikathait/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/maybe_priyanshi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/discovery/servers" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/PallaviKathait" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  </a>
+</div>
 
-<p align="left">
-  <a href="https://twitter.com/maybe_priyanshi" target="_blank"><img src="https://img.shields.io/twitter/follow/maybe_priyanshi?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/pallavikathait" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-</p>
 
----
+
 
 ✨ Thanks for stopping by!
-If you’re learning cybersecurity too, feel free to explore my projects, open an issue, or just say hi — let’s learn and grow together 🚀💙
+If you’re a beginner in cybersecurity like me, don’t hesitate to reach out — we all start somewhere
+Feel free to explore, star a repo, open an issue, or just say hi — I’m always happy to connect 
+
+---
