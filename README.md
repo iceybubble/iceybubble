@@ -12,12 +12,17 @@ Welcome to my GitHub! I’m a passionate cybersecurity student exploring ethical
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on honing my cybersecurity skills.
-- 🌱 Deepening my knowledge of penetration testing and threat intelligence.
-- 🤝 I love collaborating on security projects and learning from the community.
-- 💬 Ask me about: anything.
-- 📫 Reach me at: **kathaitpallavi164@gmail.com**
-- ⚡ Fun fact: I am the best in the world.
+🔍 Exploring ethical hacking, penetration testing, and SOC basics
+
+🌱 Learning more about threat intelligence, SIEM, and bug bounty recon
+
+🛠️ Enjoy turning concepts into hands-on projects
+
+🤝 Love collaborating and learning from the security community
+
+💬 Ask me about cybersecurity basics, tools, or learning resources
+
+📫 Reach me at: kathaitpallavi164@gmail.com
 
 ---
 
@@ -86,4 +91,5 @@ Check out more in my repos!
 
 ---
 
-Thanks for visiting my profile! If you’re interested in cybersecurity, programming, or want to chat about tech or games, let’s connect and grow together!
+✨ Thanks for stopping by!
+If you’re learning cybersecurity too, feel free to explore my projects, open an issue, or just say hi — let’s learn and grow together 🚀💙
