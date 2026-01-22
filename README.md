@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iceybubble aka Pallavi Kathait</h1>
+<h1 align="center">Hi 👋, I'm Pallavi Kathait</h1>
 <h3 align="center">Cybersecurity Enthusiast | Penetration Tester | Collaborator</h3>
 
 <p align="center">
