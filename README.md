@@ -78,7 +78,7 @@ Welcome to my GitHub! I’m a passionate cybersecurity student exploring ethical
 #### TryHackMe Badge
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/PallaviKathait.png" alt="Your Image Badge" />
+ <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3924568" style='border:none;'></iframe>
 </p>
 
 ---
