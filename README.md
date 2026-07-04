@@ -23,7 +23,7 @@
 
 ### Dynamic TryHackMe Badge (Auto-updates via GitHub Actions)
 
-![TryHackMe Badge](https://raw.githubusercontent.com/iceybubble/iceybubble/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/<PallaviKathait>/<PallaviKathait>/master/assets/thm_propic.png)
 
 > **Tip:** Set up the [TryHackMe Badge Workflow Action](https://github.com/marketplace/actions/tryhackme-badge-workflow) to keep this badge fresh daily.
 
