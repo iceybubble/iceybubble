@@ -1,151 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Hi%20There!%20I'm%20Pallavi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=aka%20iceybubble%20%7C%20Cybersecurity%20Enthusiast&descAlignY=52&descSize=20" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Learner+%F0%9F%94%90;Penetration+Tester+in+Training+%F0%9F%92%BB;Ethical+Hacker+%7C+CTF+Player+%F0%9F%9A%A9;Open+Source+Contributor+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://my-portfolio-zgmd-git-main-iceybubblres-projects.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-00F7FF?style=for-the-badge&logoColor=black&labelColor=0f0c29" />
-</a>
-<a href="https://tryhackme.com/p/PallaviKathait">
-  <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0f0c29" />
-</a>
-<a href="https://www.holopin.io/@iceybubble">
-  <img src="https://img.shields.io/badge/Holopin_Badges-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0f0c29" />
-</a>
-<a href="https://www.linkedin.com/in/pallavikathait/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" />
-</a>
-<a href="https://x.com/maybe_priyanshi">
-  <img src="https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0f0c29" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=iceybubble&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="profile views"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=iceybubble&fontSize=60&fontColor=00ff9d&fontAlignY=40&desc=Breaking%20things...%20ethically%20%F0%9F%94%93&descAlignY=62&descSize=18&animation=twinkling" width="100%"/>
 
 </div>
 
 <br/>
 
-## 🧠 About Me
+<div align="center">
 
-```yaml
-whoami: Pallavi Kathait
-role: Cybersecurity Student & Ethical Hacker in Training
-focus: [Penetration Testing, Network Defense, CTFs, Open Source]
-currently_learning: Offensive Security & SIEM Tooling
-fun_fact: "I don't know everything (yet!), but I love breaking things ethically 🐛"
-location: Srinagar Garhwal, Uttarakhand, India
+```
+┌──────────────────────────────────────────────┐
+│  guest@iceybubble:~$ whoami                   │
+│  > Pallavi Kathait                            │
+│  guest@iceybubble:~$ cat role.txt             │
+│  > Cybersecurity Learner | Ethical Hacker     │
+│  guest@iceybubble:~$ ./run_status.sh          │
+└──────────────────────────────────────────────┘
 ```
 
-<br/>
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iceybubble&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=00F7FF&icon_color=ff6ac1&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceybubble&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&langs_count=8" width="35%"/>
-
-<img src="https://streak-stats.demolab.com?user=iceybubble&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=ff6ac1&fire=ff6ac1&currStreakLabel=00F7FF" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iceybubble&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=ff6ac1&point=ffffff&area=true" width="90%"/>
-
-</div>
-
-> Trophy case 🏆
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iceybubble&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/iceybubble/iceybubble/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> ℹ️ To keep the snake game above animated, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo — instructions are in the setup notes below.
-
-<br/>
-
-## 🕹️ Pac-Man Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/iceybubble/iceybubble/output/pacman-contribution-graph.svg" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🏅 Badges & Certifications
-
-<div align="center">
-
-### Holopin Badge Wall
-<a href="https://www.holopin.io/@iceybubble">
-  <img src="https://holopin.me/iceybubble" alt="Holopin badges" />
-</a>
-
-### TryHackMe
-<a href="https://tryhackme.com/p/PallaviKathait">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/PallaviKathait.png" alt="TryHackMe badge" width="300"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=680&lines=Penetration+Testing+in+Progress...+%F0%9F%94%93;Scanning+for+Vulnerabilities...+%F0%9F%92%BB;Compiling+CTF+Writeups...+%F0%9F%93%9D;Deploying+Open+Source+Code...+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-## 🚀 Featured Work
+<div align="center">
+
+<a href="https://my-portfolio-zgmd-git-main-iceybubblres-projects.vercel.app/"><img src="https://img.shields.io/badge/[_Portfolio_]-000000?style=for-the-badge&logoColor=00ff9d&labelColor=000000&color=0f3460"/></a>
+<a href="https://tryhackme.com/p/PallaviKathait"><img src="https://img.shields.io/badge/[_TryHackMe_]-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff9d&labelColor=000000&color=0f3460"/></a>
+<a href="https://www.holopin.io/@iceybubble"><img src="https://img.shields.io/badge/[_Badges_]-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff9d&labelColor=000000&color=0f3460"/></a>
+<a href="https://www.linkedin.com/in/pallavikathait/"><img src="https://img.shields.io/badge/[_LinkedIn_]-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9d&labelColor=000000&color=0f3460"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=iceybubble&label=TERMINAL+VISITS&color=0f3460&style=for-the-badge&labelColor=000000" alt="profile views"/>
+
+</div>
+
+<br/>
+
+## `> system_info --user`
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="50%">
+<td>
 
-**🌐 Portfolio**
-<br/>
-A showcase of my projects, write-ups, and skills.
-<br/>
-<a href="https://my-portfolio-zgmd-git-main-iceybubblres-projects.vercel.app/">Visit Portfolio →</a>
-
-</td>
-<td align="center" width="50%">
-
-**🎯 TryHackMe Profile**
-<br/>
-My rooms, rank, and pentesting progress.
-<br/>
-<a href="https://tryhackme.com/p/PallaviKathait">View Profile →</a>
+```yaml
+name:       Pallavi Kathait
+alias:      iceybubble
+role:       Cybersecurity Student
+focus:      [PenTest, Network Defense, CTFs]
+learning:   Offensive Security, SIEM Tools
+location:   Uttarakhand, India
+status:     Breaking things ethically since 202X
+```
 
 </td>
 </tr>
@@ -154,26 +65,127 @@ My rooms, rank, and pentesting progress.
 
 <br/>
 
-## 📌 Pinned Highlights
-
-- 🌱 **GreenGap** — Full-stack app detecting rebound effects in energy efficiency using Pathway RAG + Gemini 2.5
-- 📷 **CameraPhishing** — Educational webcam-capture red-team tool
-- 🔎 **Find-Me-Issues** — React app to discover "good first issue" repos
-- 📝 **THM_Webroots-and-Writeups** — My TryHackMe room write-ups
-- 🛡️ **SIEM-Log-Generator** — Simulates real-world security logs for SIEM testing
-- 🤖 **SpectraLog-AI-backend** — AI-powered log analysis backend
-
-<br/>
-
-## 📫 Connect With Me
+## `> ls -la ./tech_stack`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavikathait/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/maybe_priyanshi)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/discovery/servers)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/PallaviKathait)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@iceybubble)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff9d)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ff9d)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff9d)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff9d)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff9d)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00ff9d)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff9d)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff9d)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff9d)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff9d)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff9d)
+![GCP](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=00ff9d)
+
+</div>
+
+<br/>
+
+## `> ./run_diagnostics.sh --verbose`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iceybubble&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&bg_color=000000&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9&border_color=0f3460" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceybubble&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=000000&title_color=00ff9d&text_color=c9d1d9&border_color=0f3460&langs_count=8" width="35%"/>
+
+<img src="https://streak-stats.demolab.com?user=iceybubble&theme=highcontrast&hide_border=true&background=000000&stroke=00ff9d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=00ff9d&dates=c9d1d9" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iceybubble&theme=react-dark&hide_border=true&bg_color=000000&color=00ff9d&line=00ff9d&point=ffffff&area=true&area_color=00ff9d" width="90%"/>
+
+</div>
+
+<br/>
+
+## `> cat trophies.log`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=iceybubble&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+</div>
+
+<br/>
+
+## `> git log --graph --contributions`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/iceybubble/iceybubble/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> Snake animation requires the [`platane/snk`](https://github.com/Platane/snk) GitHub Action wired to this repo's `output` branch — say the word and I'll write that workflow file for you.
+
+<br/>
+
+## `> unzip badges.zip`
+
+<div align="center">
+
+**Holopin Achievement Wall**
+<br/>
+<a href="https://www.holopin.io/@iceybubble">
+  <img src="https://holopin.me/iceybubble" alt="Holopin badges" />
+</a>
+
+<br/><br/>
+
+**TryHackMe Profile**
+<br/>
+<a href="https://tryhackme.com/p/PallaviKathait">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/PallaviKathait.png" alt="TryHackMe badge" width="300"/>
+</a>
+
+</div>
+
+<br/>
+
+## `> tree ./featured_repos`
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+**🌱 GreenGap**
+<br/>Full-stack app detecting rebound effects in energy efficiency using Pathway RAG + Gemini 2.5
+
+</td>
+<td width="50%">
+
+**🔎 Find-Me-Issues**
+<br/>React app to discover "good first issue" repos for new contributors
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📝 THM_Webroots-and-Writeups**
+<br/>My TryHackMe room write-ups and pentesting notes
+
+</td>
+<td width="50%">
+
+**🛡️ SIEM-Log-Generator**
+<br/>Simulates real-world security logs for SIEM testing
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+## `> ping social_links`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9d)](https://www.linkedin.com/in/pallavikathait/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00ff9d)](https://x.com/maybe_priyanshi)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff9d)](https://tryhackme.com/p/PallaviKathait)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00ff9d)](https://my-portfolio-zgmd-git-main-iceybubblres-projects.vercel.app/)
 
 </div>
 
@@ -181,8 +193,14 @@ My rooms, rank, and pentesting progress.
 
 <div align="center">
 
-✨ *Thanks for stopping by! If you're a beginner in cybersecurity like me, don't hesitate to reach out — we all start somewhere. Feel free to explore, star a repo, open an issue, or just say hi!* ✨
+```
+guest@iceybubble:~$ echo "thanks for visiting"
+> thanks for visiting
+guest@iceybubble:~$ exit
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+*New to cybersecurity like me? Don't hesitate to reach out — we all start somewhere. Star a repo, open an issue, or just say hi 👋*
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
 
 </div>
